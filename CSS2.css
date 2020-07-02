@@ -1,0 +1,13 @@
+body {
+	background: pink;
+}
+li {
+	border: 2px solid purple;
+}
+#toBeDone {
+	background: rgb(255,0,0);
+}
+.done {
+	background: #00FF00;
+	text-decoration: line-through;
+}

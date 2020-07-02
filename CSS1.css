@@ -1,0 +1,40 @@
+h1 {
+	color: #FF00FF;
+	border-color: rgb(0,255,0);
+	border-style: solid;
+	border-width: 2px;
+}
+
+h4 {
+	color: rgb(255,0,0);
+	border: 2px dotted yellow;
+}
+
+li {
+	color: rgba(255,0,0,1);
+}
+
+h2 {
+	color: rgba(255,0,0,0.5);
+	/*rgba(x,y,z,t), the value of t belongs to [0,1], lower the value of t, more transparent is the text, here h2*/
+	border-color: rgb(0,0,255);
+	border-style: dashed;
+	border-width: 2px;
+}
+
+body {
+	/*background: url(https://www.mariwasa.com/wp-content/uploads/bmg66a1101q_wood.jpg);*/
+	/*background-repeat: no-repeat;*//*Used when the small image repeats over the entire page and we want to avoid it*/
+	/*/*background-size: cover*//*Used when we need to cover a small image over the entire page*/
+    background: pink;
+}
+
+#special {
+	color: yellow;
+	background: darkOrchid;
+}
+
+.academics {
+	background: #00FF00;
+}
+

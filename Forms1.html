@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Forms</title>
+</head>
+<body>
+<!-- action - where the form sends the data to -->
+<!-- method- what HTTP meyhod (get/post) -->
+<!-- <form action="http://www.wikipedia.org" method="GET">
+	<label for="Username">Username: </label>
+	<input id="Username "type="text" name="Username" placeholder="username">
+	<label for="Password">Password: </label>
+	<input id="Password" type="password" name="Password" placeholder="password">
+	<input type="submit">
+</form>
+ -->
+ <!-- The attributes for and id are used for the purpose of connecting the label and the input solely for the purpose of screen reader softwares i.e.,for the visually impaired -->
+ <form action="http://www.wikipedia.org" method="GET">
+	<label >
+		email: 
+		<input type="email" name="Email" placeholder="email" required>
+	</label>
+	<label>
+		Password: 
+		<input type="password" name="Password" placeholder="password" required>
+	</label>
+	<input type="submit">
+</form>
+
+ </body>
+</html>
