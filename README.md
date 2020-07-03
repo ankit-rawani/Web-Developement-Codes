@@ -1,12 +1,12 @@
 # Web Developement
 
 I have all my progress codes in Web Developement here.
-
+![Image](https://cdn6.f-cdn.com/files/download/82615852/web-dev-ty.jpg)
 ### Checkout the links below to go to the respective pages 
 - [Advanced selectors](./advancedSelectors.html)
 - [All about fonts](./AllAboutFonts.html)
 - [Blog](./Blog.html)
-- [Bootstrap basics](./Bootstrap basics.html)
+- [Bootstrap basics](./Bootstrap%20basics.html)
 - [Bootstrap4 breakpoints](./Bootstrap4_Breakpoints.html)
 - [Bootstrap4 Display Utility](./Bootstrap4_DisplayUtility.html)
 - [Bootstrap4 Flexbox](./Bootstrap4_Flexbox.html)
