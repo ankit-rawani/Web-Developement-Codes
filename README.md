@@ -1,5 +1,5 @@
 # Web Development
-
+You can see my html sites at https://bgokulnaath.github.io/Web-Developement-Codes/
 I have all my progress codes in Web Developement here.
 ![Image](https://cdn6.f-cdn.com/files/download/82615852/web-dev-ty.jpg)
 ### Checkout the links below to go to the respective pages 
@@ -7,6 +7,7 @@ I have all my progress codes in Web Developement here.
 - [All about fonts](./AllAboutFonts.html)
 - [Blog](./Blog.html)
 - [Bootstrap basics](./Bootstrap%20basics.html)
+- [Bootstrap4_1](./bootstrap4_1.html)
 - [Bootstrap4 breakpoints](./Bootstrap4_Breakpoints.html)
 - [Bootstrap4 Display Utility](./Bootstrap4_DisplayUtility.html)
 - [Bootstrap4 Flexbox](./Bootstrap4_Flexbox.html)
@@ -17,9 +18,27 @@ I have all my progress codes in Web Developement here.
 - [Bootstrap4 Project1](./Bootstrap4_Project1.html)
 - [Bootstrap4 Project2](./Bootstrap4_Project2.html)
 - [Bootstrap4 Spacing Utilities](./Bootstrap4_SpacingUtilities.html)
+- [Bootstrap4 Typography](./Bootstrap4_Typography.html)
 - [Bootstrap Grid](./BootstrapGrid.html)
-- [Advanced selectors](./advancedSelectors.html)
-- [Advanced selectors](./advancedSelectors.html)
-- [Advanced selectors](./advancedSelectors.html)
+- [Bootstrap4_2](./bootstrap4_2.html)
+- [First Assignment](./FirstAssignment.html)
+- [First Page](./firstPage.html)
+- [Forms 1](./Forms1.html)
+- [Forms 2](./Forms2.html)
+- [Fourth Assignment](./Fourth%20Assignment.html)
+- [Image Gallery](./Image%20gallery.html)
+- [Inheritance and Specificity](./Inheritance%20and%20Specificity.html)
+- [Navigation Bar](./NavigationBar.html)
+- [Photo Blog Assignment](./PhotoBlogAssignment.html)
+- [Purrfect Match](./PurrfectMatch.html)
+- [Second Assignment](./SecondAssignment.html)
+- [Second Page](./secondPage.html)
+- [SelectorsExerciseHTML](./SelectorsExerciseHTML.html)
+- [Tables](./Tables.html)
+- [The Box Model](./TheBoxModel.html)
+- [Third Assignment](./ThirdAssignment.html)
+- [TicTacToeBox](./TicTacToeAssignment.html)
+- [To Do List](./toDoList.html)
+
 
 ![Image](https://png.pngtree.com/png-vector/20190611/ourmid/pngtree-web-development-illustration-modern-can-be-used-for-landing-pages-web-png-image_1496210.jpg)
