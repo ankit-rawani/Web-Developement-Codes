@@ -39,6 +39,7 @@ I have all my progress codes in Web Developement here.
 - [Third Assignment](./ThirdAssignment.html)
 - [TicTacToeBox](./TicTacToeAssignment.html)
 - [To Do List](./toDoList.html)
+- [Color Picker Game](./Color%20Picker%20Game.html)
 
 
 ![Image](https://png.pngtree.com/png-vector/20190611/ourmid/pngtree-web-development-illustration-modern-can-be-used-for-landing-pages-web-png-image_1496210.jpg)
